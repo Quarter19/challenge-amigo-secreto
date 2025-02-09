@@ -1,6 +1,7 @@
 # challenge-amigo-secreto
-Juego de Amigo Secreto
-Descripción
+
+Descripción:
+
 Esta aplicación web permite organizar un juego de amigo secreto de manera sencilla y dinámica. Los usuarios pueden agregar nombres de participantes y realizar un sorteo aleatorio para asignar amigos secretos.
 Características
 
