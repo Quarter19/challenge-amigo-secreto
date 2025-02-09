@@ -97,4 +97,4 @@ Modo oscuro
 Animaciones en el sorteo
 
 Autor
-[Tu Nombre]
+Daniel Villagómez
